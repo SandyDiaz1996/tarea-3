@@ -19,3 +19,7 @@ class Condicion:
 # condicion1 = Condicion()
 # print(condicion1.numero1)
 # print(condicion1.numero2)
+
+condicion2 = Condicion(30, 30)
+condicion2.usoIf()
+print(condicion2.numero1)
